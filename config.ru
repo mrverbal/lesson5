@@ -1,3 +1,3 @@
-require './lesson5'
+require 'sinatra'
 run Sinatra::Application
 
